@@ -48,10 +48,9 @@
                                       *##*#*****:=#**=:-=***@@@@#%%#@%=%%%###**%@*+%%@--@@##%#- 
                                                                                                 
 
-               ~ la pizza della casa, con amore ~
 ```
 
-*Buonasera, amici miei! Benvenuti! It is I, Chef Doughboy, pictured above in my finest toque and a mustache my mamma said would bring shame on the family. Allora, she was wrong. Look at it. Magnifico.*
+*Buonasera, amici miei! Benvenuti!*
 
 In my little kitchen in Napoli, we have one rule: *la pizza non si improvvisa*. Pizza is not improvised! The flour, the water, the salt, the cheese, everything has its measure. Your nonna, she eyeballed it, sì, but your nonna made pizza ten thousand times with a wooden spoon in one hand and a grandchild in the other. You? Forse sei volte. Maybe six. So I made you a little planner. *Prego.*
 
