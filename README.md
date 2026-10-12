@@ -50,16 +50,22 @@ Your settings stay in your own browser. Nothing gets sent anywhere. The only thi
 
 ## Running it
 
-It is one file, like a good calzone: everything inside, nothing leaking out.
+Three files, like a good pizza has three parts:
 
-- **Open it:** double-click `index.html`.
+| File | What's in it |
+| --- | --- |
+| `index.html` | The dough: the page structure |
+| `styles.css` | The sauce: colors, fonts and layout, light and dark |
+| `app.js` | The cheese: all the math, the schedules and the buttons |
+
+- **Open it:** double-click `index.html` (keep the three files in the same folder).
 - **Host it:** turn on GitHub Pages for this repo (Settings → Pages → deploy from `main`, root folder) and share the link.
 
 No build step, no install, no `npm`. Mangia.
 
 ## Adding a new pizza style
 
-Each style is one entry in the `TYPES` list in `index.html`, plus a screen block in the HTML and a `calc…`, `render…` and `…Text` function. Copy the sourdough one; it's the simplest. Then send me a slice.
+Each style is one entry in the `TYPES` list in `app.js`, plus a screen block in `index.html` and a `calc…`, `render…` and `…Text` function in `app.js`. Copy the sourdough one; it's the simplest. Then send me a slice.
 
 ## Credits
 
