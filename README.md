@@ -1,27 +1,53 @@
 # 🍕 Pizza Night Planner
 
 ```
-                    _.-""""-._
-                  .'          '.
-                 /   .-"""-.    \
-                |   (       )    |
-                 \   '-...-'    /
-                  '.__________.'
-                  |  ________  |
-                  | |        | |
-                  |_|________|_|
-                 /    .    .    \
-                |   (o)    (o)   |
-                |       __       |
-                |  .-.-(__)-.-.  |
-                |  '._.~~~~._.'  |
-                 \     \__/     /
-                  '.          .'
-               ____|'-.____.-'|____
-             .'    \   \__/   /    '.
-            /       '.  ||  .'       \
-           |  [==]    '.||.'    [==]  |
-           |   CHEF    DOUGHBOY       |
+                      .-"""-.       .-"""-.
+                   .-'       '-. .-'       '-.
+                 .'    .-""-.   Y   .-""-.    '.
+                /     /      \  |  /      \     \
+               |     |        | | |        |     |
+               |      \      /  |  \      /      |
+                \      '-..-'   |   '-..-'      /
+                 '.             |             .'
+                   '-.___       |       ___.-'
+                     |   '''---...---'''   |
+                     |    CHEF DOUGHBOY    |
+                     |_____________________|
+                   .'                       '.
+                  /     ___           ___     \
+                 |     /   \         /   \     |
+                 |    | (@) |       | (@) |    |
+               .-|     \___/    _    \___/     |-.
+              ( (|             ( )             |) )
+               '-|        _.--'   '--._        |-'
+                 |   .--''  _.-'''-._  ''--.   |
+                 |  (    .-'         '-.    )  |
+                 |   '--'    \_____/    '--'   |
+                  \           '---'           /
+                   '.                       .'
+                     '-._             _.-'
+                         '--..___..--'
+              ____________|  \   /  |____________
+            .'    /\/\/\  |   \ /   |  /\/\/\    '.
+           /     |      |  \   V   /  |      |     \
+          |      |  ()  |   '. | .'   |  ()  |      |
+          |      |      |     '|'     |      |      |
+          |      |  ()  |      |      |  ()  |      |
+          |      |      |      |      |      |      |
+          |      |  ()  |      |      |  ()  |      |
+
+                         _.-'''''''-._
+                     .-'  o    .    o  '-.
+                   .'  .    (_)    .  o   '.
+                  /  o   .     o    .   (_) \
+                 |  (_)    o   .  (_)   o    |
+                 |    .  o    (_)    .    o  |
+                  \  o   (_)   .   o    .   /
+                   '.   .    o    (_)  .  .'
+                     '-.  o   .    .  .-'
+                        '-._______.-'
+
+               ~ la pizza della casa, con amore ~
 ```
 
 *Buonasera, amici miei! Benvenuti! It is I, Chef Doughboy, pictured above in my finest toque and a mustache my mamma said would bring shame on the family. Allora, she was wrong. Look at it. Magnifico.*
@@ -69,7 +95,7 @@ Each style is one entry in the `TYPES` list in `app.js`, plus a screen block in 
 
 ## Grazie · Credits
 
-- Detroit and New York ratios are adapted from Charlie Anderson's Detroit-Style Pizza Calculator (V2) and NYC Pizza Calculator.
+- Detroit and New York ratios are adapted from [Charlie Anderson](https://charlieandersoncooking.com/)'s Detroit-Style Pizza Calculator (V2) and NYC Pizza Calculator. *Un vero maestro!* Go learn from him on [his website](https://charlieandersoncooking.com/) and [YouTube channel](https://www.youtube.com/@CharlieAndersonCooking).
 - The sourdough formula is *la ricetta della casa*, the house recipe: 700 g flour, 490 g water, 98 g starter and 14 g salt for six 217 g balls.
 
 *Ciao, ciao! E buon appetito!* 🇮🇹
