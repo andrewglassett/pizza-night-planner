@@ -194,6 +194,8 @@ td small{color:var(--muted);display:block;font-size:12px}
 .sub-steps li::before{content:none}
 
 footer{margin-top:28px;color:var(--muted);font-size:12.5px;max-width:80ch}
+footer a{color:var(--steel);text-underline-offset:2px}
+a.btn{text-decoration:none;color:var(--ink)}
 .toast{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 20px);transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:var(--r);font-weight:600;font-size:14px;transition:opacity .2s}
 textarea.fallback{width:100%;height:220px;margin-top:10px;font-family:var(--f-mono);font-size:12.5px;background:var(--sunk);color:var(--ink);border:1px solid var(--line);border-radius:var(--r);padding:10px}
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
